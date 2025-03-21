@@ -12,7 +12,7 @@ public class DeclarationApp {
         double f = 1.8d;
         System.out.println(a);
 
-        String randomString = "Voici le résultat d'un calcul : 1 + 5 = 6";
+        String randomString = "Voici le résultat d'un calcul : 1 + 5 = \n 6";
         System.out.println(randomString);
     }
 }
