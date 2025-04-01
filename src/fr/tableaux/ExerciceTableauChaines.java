@@ -6,7 +6,9 @@ public class ExerciceTableauChaines {
         for (String string : strings) {
             System.out.println(string);
         }
+
         System.out.println(strings.length);
+
         strings[3] = "Reims";
         for (String string : strings) {
             System.out.println(string);
